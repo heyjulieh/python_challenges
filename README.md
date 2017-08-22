@@ -36,25 +36,34 @@ Execute a Python program with:
 Your first task is to research Python to be able to understand some of its basic concepts. Edit this `README.md` file to answer the below questions:
 
 ##### What paradigms does Python support?
+Python supports various paradigms including Object Oriented Programming (OOP), Structured (if, else, then, blocks, subroutines), and Imperative (using statements to change the state.. i.e. multiple steps leading to the execution, declaring variables, etc.)
 
 ##### What typing discipline does it follow?
+Python follows the discipline of clean coding (indentation is important) DRY (don't repeat yourself), and beautiful/readible (blocks.
 
 ##### Is it a high or low level language?
+Python is a high level language; it can do a lot-- there are many methods and is able to abstract a lot of the english language into code 
 
 ##### Does it have built in memory management and garbage collection?
+Yes
 
 ##### What languages was Python influenced by?
+C, Java, English (Semantics)
 
 ##### Is it a compiled or interpeted language?
+It is byte-code interpreted.
 
 ##### Does it have strong support for functional programming?
+Yes, there are many people who use Python and many questions on Slack relating to issues
 
 ##### What's the deal with Python 2 vs Python 3?
+The biggest difference is the print statement.
 
 ##### How do you open a REPL for Python?
+Python
 
 ##### How does one execute a Python program?
-
+Python <filename.py>
 
 ## Read: The Zen of Python
 
